@@ -1,0 +1,224 @@
+.ch-container{
+	.total{
+		height: 100%;
+		background: #e9edf0;
+		.leftme{
+			width: 25%;
+			height: 100%;
+			.leftm{
+				position: relative;
+				width: 210px;
+				height: 100%;
+				display: block;
+				vertical-align: baseline;
+				float: left;
+				.colnumber{
+					position: fixed;
+					top: 70px;
+					width: 320px;
+					background: #e9edf0;
+					float: left;
+					z-index: 11;
+					overflow: hidden auto;
+					nav{
+						display: block;
+						overflow: visible;
+						padding: 15px 0px 0px;
+						z-index: 11;
+						height: 600px;
+						.listdown{
+							height: 100%;
+							.colmenu-ul{
+								display: block;
+								overflow: visible;
+								position: relative;
+								z-index: 11;
+								list-style-type: none;
+								li{
+									display: block;
+									position: relative;
+									overflow: visible;
+									padding-left: 0px;
+									margin-bottom: 0px;
+									z-index: 11;
+									width: 250px;
+									.parentname{
+										font-size: 14px;
+										text-transform: uppercase;
+										text-decoration: none;
+										.fa-chevron-down{
+											float: right;
+										}
+									}
+									a{
+										color: black;
+										padding: 5px 15px;
+									}
+								}
+								.accordion{
+									margin-bottom: 8%;
+								}
+								.number7{
+									.productlist{
+										text-decoration: none;
+									}
+								}
+								.content-1{
+									.nav-parent{
+										display: block;
+										overflow: hidden;
+										line-height: 1.4em;
+										font-size: 12px;
+										font-weight: 600;
+										text-transform: uppercase;
+										margin-bottom: 10px;
+										color: #1d1d1d;
+										cursor: pointer;
+									}
+								}
+								.number0{
+									position: relative;
+									height: 36px;
+									margin-bottom: 4%;
+									.pull-left{
+										margin-top: 0px;
+										.form-control{
+											padding: 6px 28px 6px 4px;
+											border-radius: 5px;
+										}
+										input[type="text"]{
+											width: 230px;
+											height: 33px;
+										}
+										.icon-right{
+											position: absolute;
+											z-index: 555;
+											right: 12px;
+											text-align: center;
+											background: none;
+											border: none;
+											padding-top: 2.5%;
+											.fa-search{
+												width: 18px;
+												height: 18px;
+												color: #dfdfdf;
+												font-size: 14px;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 1024px){
+	.ch-container{
+		.row{
+			.leftme{
+				.leftm{
+					.colnumber{
+						nav{
+							.listdown{
+								margin-top: 3%;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 768px){
+	.ch-container{
+		.row{
+			.leftme{
+				width: unset;
+				.leftm{
+					.colnumber{
+						width: 224px;
+						nav{
+							.listdown{
+								.colmenu-ul{
+									padding-left: 0;
+									li{
+										width: 100%;
+									}
+									.number0{
+										.pull-left{
+											position: relative;
+											input[type="text"]{
+												width: 196px;
+											}
+											.icon-right{
+												top: 6px;
+												right: 1px;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 425px){
+	.ch-container{
+		.total{
+			height: 100%;
+			background: #e9edf0;
+			.leftme{
+				width: 25%;
+				height: 100%;
+				.leftm{
+					position: relative;
+					width: 210px;
+					height: 100%;
+					display: block;
+					vertical-align: baseline;
+					float: left;
+					.colnumber{
+						position: fixed;
+						top: 70px;
+						width: 208px;
+						height: 100%;
+						background: #e9edf0;
+						float: left;
+						z-index: 11;
+						overflow: hidden auto;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 320px){
+	.ch-container{
+		.total{
+			.leftme{
+				.leftm{
+					.colnumber{
+						position: fixed;
+						top: 70px;
+						width: 165px;
+						height: 100%;
+						background: #e9edf0;
+						float: left;
+						z-index: 11;
+						overflow: hidden auto;
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,213 @@
+.ch-container{
+	.total{
+		#content{
+			.lastpage{
+				width: 100%;
+				margin-top: 2%;
+				padding-left: 0px;
+				.title{
+					background: #ffffff;
+					width: 95%;
+					margin-left: 0%;
+					.headtitle{
+						display: block;
+						padding: 1% 3%;
+						color: #288ad6;
+						font-weight: 600;
+						font-size: 20px;
+						text-decoration: none;
+						text-transform: uppercase;
+					}
+				}
+				.last{
+					width: 95%;
+					background: #ffffff;
+					margin-left: 0;
+					.leftcontent{
+						padding-right: 0px;
+						position: relative;
+						.youtube{
+							width: 100%;
+							padding: 0% 0% 4% 2%;
+							position: relative;
+							.byt{
+								position: absolute;
+								z-index: 10;
+								top: 33%;
+								left: 41%;
+								width: 17%;
+								filter: grayscale(100%) opacity(63%);
+								&:hover{
+									filter: grayscale(0%) opacity(100%);
+								}
+							}
+							.lefthead{
+								position: absolute;
+								top: 6%;
+								left: 5%;
+								.bwm{
+									text-decoration: none;
+									color: #333;
+								}
+							}
+							.logoyoutube{
+								position: absolute;
+								top: 3%;
+								left: 14%;
+								.blg{
+									text-decoration: none;
+									color: #333;
+									.lg{
+										width: 45px;
+										height: 40px;
+									}
+								}
+							}
+							.watch{
+								position: absolute;
+								top: 3%;
+								right: 22%;
+								.bwatch{
+									text-align: center;
+									text-decoration: none;
+									color: #ffffff;
+									.cwatch{
+										i{
+											font-size: 25px;
+										}
+										span{
+											font-weight: 600;
+											font-size: 12px;
+										}
+									}
+								}
+							}
+							.share{
+								position: absolute;
+								top: 3%;
+								right: 10%;
+								.bshare{
+									text-align: center;
+									text-decoration: none;
+									color: #ffffff;
+									.cshare{
+										i{
+											font-size: 25px;
+										}
+										span{
+											font-weight: 600;
+											font-size: 12px;
+										}
+									}
+								}
+							}
+						}
+					}
+					.rightcontent{
+						.rightlist{
+							.listnews{
+								padding: 11px 0px;
+								border-top: 1px solid #f3f3f3;
+								.news{
+									float: left;
+									.click{
+										img{
+											width: 65px;
+											height: 40px;
+										}
+									}	
+								}
+								.titles{
+									margin-left: 22%;
+								}
+							}
+							.morenews{
+								.viewother{
+									text-decoration: none;
+									color: #288ad6;
+									font-size: 13px;
+									padding-top: 1%;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 1024px){
+	.ch-container{
+		.total{
+			#content{
+				.lastpage{
+					margin-top: 5%;
+					.title{
+						width: 100%;
+						.headtitle{
+							font-size: 15px;
+						}
+					}
+					.last{
+						width: 100%;
+						.leftcontent{
+							.youtube{
+								.watch{
+									right: 17%;
+									.bwatch{
+										.cwatch{
+											i{
+												font-size: 20px;
+											}
+										}
+									}
+								}
+								.share{
+									right: 5%;
+									.bshare{
+										.cshare{
+											i{
+												font-size: 20px;
+											}
+										}
+									}
+								}
+								.iyt{
+									width: 100%;
+									height: 100%;
+								}
+								.logoyotube{
+									.blg{
+										font-size: 11px;
+										.lg{
+											width: 30px;
+											height: 30px;
+										}
+									}
+								}
+								.lefthead{
+									top: 4%;
+									left: 4%;
+									.bwm{
+										font-size: 12px;
+									}
+								}
+							}
+						}
+						.rightcontent{
+							.rightlist{
+								.listnews{
+									padding: 4px 0px 2px 0px;
+									.titles{
+										margin-left: 30%;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

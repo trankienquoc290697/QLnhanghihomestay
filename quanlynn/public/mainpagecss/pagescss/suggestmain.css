@@ -1,0 +1,261 @@
+@charset "UTF-8";
+.ch-container .total #content .suggestidea {
+  width: 100%;
+  padding-left: 0px;
+}
+.ch-container .total #content .suggestidea .centercontent {
+  width: 94.8%;
+}
+.ch-container .total #content .suggestidea .centercontent .col-lg-12 .title {
+  float: left;
+  margin-top: 3%;
+  text-transform: uppercase;
+  color: #4a4a4a;
+  font-size: 20px;
+}
+.ch-container .total #content .suggestidea .centercontent .col-lg-12 .title i {
+  color: #fc5905;
+  width: 26px;
+  height: 18px;
+  padding-right: 2%;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage {
+  display: block;
+  padding-left: 0px;
+  margin-left: 15px;
+  width: 100%;
+  position: relative;
+  background: #ffffff;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate {
+  display: flex;
+  width: 768px;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active {
+  padding: 0;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea {
+  position: relative;
+  padding-bottom: 60px;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea .number1 {
+  text-decoration: none;
+  padding: 8px;
+  display: block;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea .number1 .boxing {
+  display: block;
+  width: 100%;
+  height: 160px;
+  position: relative;
+  overflow: hidden;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea .number1 .boxing img {
+  display: block;
+  width: 160px;
+  height: 160px;
+  margin: 0 auto 0;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea .number1 .gift .lazy {
+  vertical-align: top;
+  width: 36px;
+  height: 36px;
+  float: left;
+  display: block;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea .number1 .gift span {
+  vertical-align: top;
+  float: left;
+  font-size: 12px;
+  margin-left: 3px;
+  color: #626262;
+  width: calc(100% - 40px);
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea .number1 .product-name {
+  line-height: 1.3em;
+  font-size: 13px;
+  color: #333;
+  padding: 10px 10px 0;
+  text-overflow: ellipsis;
+  white-space: initial;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea .removepoint span {
+  font-size: 12px;
+  color: #666;
+  margin-bottom: 6px;
+  text-overflow: ellipsis;
+  padding: 10px 10px 0;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea .removepoint span:before {
+  content: '•';
+  color: #999;
+  font-size: 12px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 3px;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea .price strong {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 13px;
+  color: #b10e0e;
+  font-weight: normal;
+  padding: 0px 10px 0px;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea .price label {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 12px;
+  color: #fff;
+  font-weight: 600;
+  background: #de2000;
+  border-radius: 3px;
+  width: 32px;
+  height: 20px;
+  text-align: center;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea .price span {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 13px;
+  color: #757575;
+  text-decoration: line-through;
+  font-weight: 300;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea .price .unit {
+  display: block;
+  text-decoration: none;
+  font-size: 11px;
+  color: #666;
+  padding: 10px 10px 0;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .active .idea .buy {
+  display: block;
+  overflow: hidden;
+  font-size: 13px;
+  color: #008848;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px 0px;
+  position: absolute;
+  left: 20px;
+  right: 20px;
+  bottom: 10px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid #008848;
+  text-decoration: none;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .cate .slick-list {
+  margin-left: 2%;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .viewcart {
+  width: 189px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  background: #fff;
+  box-shadow: 0 0 49px #c5c5c5;
+  padding: 50px 12px 0 12px;
+  box-sizing: border-box;
+  text-align: left;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .viewcart .titleview {
+  font-weight: bold;
+  color: #4a4a4a;
+  padding: 7px 10px 7px 30px;
+  font-size: 15px;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .viewcart .totalp {
+  font-size: 18px;
+  margin-bottom: 20px;
+  display: block;
+  font-weight: bold;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .viewcart .price {
+  color: #b10e0e;
+  display: block;
+  font-size: 20px;
+  line-height: 35px;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .viewcart .line {
+  display: block;
+  font-size: 13px;
+  color: #999;
+  text-decoration: line-through;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .viewcart .viewcartmore {
+  background: #008848;
+  border-radius: 4px;
+  font-size: 13px;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  cursor: pointer;
+  position: absolute;
+  left: 12px;
+  right: 12px;
+  bottom: 11px;
+  padding: 6%;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .nextbutton {
+  display: block;
+  position: absolute;
+  top: 43%;
+  right: 22%;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .nextbutton .nextb {
+  background: #028848;
+  border-radius: 100%;
+  border: none;
+  width: 30px;
+  color: #ffffff;
+  height: 30px;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .nextbutton .nextb:hover {
+  background: #34af74;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .prevbutton {
+  display: block;
+  position: absolute;
+  top: 43%;
+  left: 3%;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .prevbutton .prevb {
+  background: #028848;
+  border-radius: 100%;
+  border: none;
+  width: 30px;
+  color: #ffffff;
+  height: 30px;
+}
+.ch-container .total #content .suggestidea .centercontent .secondpage .prevbutton .prevb:hover {
+  background: #34af74;
+}
+
+@media only screen and (max-width: 1024px) {
+  .ch-container .total #content .suggestidea .centercontent {
+    width: 100%;
+  }
+  .ch-container .total #content .suggestidea .centercontent .secondpage {
+    width: 100%;
+  }
+  .ch-container .total #content .suggestidea .centercontent .secondpage .cate {
+    width: 550px;
+  }
+  .ch-container .total #content .suggestidea .centercontent .secondpage .cate .slick-list {
+    margin-left: 4%;
+  }
+  .ch-container .total #content .suggestidea .centercontent .secondpage .nextbutton {
+    right: 28%;
+    top: 50%;
+  }
+  .ch-container .total #content .suggestidea .centercontent .secondpage .prevbutton {
+    top: 50%;
+  }
+}
+
+/*# sourceMappingURL=suggestmain.css.map */

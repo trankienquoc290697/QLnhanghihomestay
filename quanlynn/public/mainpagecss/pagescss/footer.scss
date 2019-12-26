@@ -1,0 +1,230 @@
+.ch-container{
+	.total{
+		#content{
+			footer{
+				.foot{
+					width: 100%;
+					padding-left: 0px;
+					padding-top: 3%;
+					.footcontent{
+						margin-left: 0px;
+						width: 928px;
+						background: #ffffff;
+						.leftfoot{
+							padding: 15px 0 0 15px;
+							height: 100%;
+							float: left;
+							width: 60%;
+							.tongdai{
+								color: #008848;
+								font-size: 13px;
+								font-weight: 600;
+								padding: 10px 10px;
+							}
+							.linkstatic{
+								width: 100%;
+								padding: 3px 10px 5px;
+								.static{
+									font-size: 12px;
+									&:before{
+										content: '•';
+										display: inline-block;
+										font-size: 8px;
+										vertical-align: middle;
+										margin-right: 5px;
+									}
+								}
+							}
+							.member{
+								position: relative;
+								padding: 0px 10px;
+								.mem{
+									display: flex;
+									.memberlist{
+										align-items: center;
+										display: inherit;
+										.bmember{
+											.img1{
+												height: 27px;
+												width: 94%;
+											}
+											.img2{
+												height: 28px;
+												width: 95%;
+											}
+											.img3{
+												height: 36px;
+												width: 97%;
+											}
+										}
+									}
+								}
+								.memberlist1{
+									width: 63%;
+									align-items: center;
+									display: inherit;
+								}
+							}
+						}
+						.rightfoot{
+							padding-top: 18px;
+							padding-right: 50px;
+							.ckcl{
+								display: flex;
+								position: relative;
+								.rightimg{
+									width: 12%;
+									height: 40px;
+								}
+								p{
+									display: inherit;
+									align-items: center;
+									margin-bottom: 0px;
+								}
+							}
+							.nutb{
+								float: right;
+								.fb{
+									border: 1px solid #4267b2;
+									border-radius: 5px;
+									height: 20px;
+									font-size: 11px;
+									background: #4267b2;
+									color: white;
+									display: inline-block;
+									vertical-align: bottom;
+								}
+								.yt{
+									height: 24px;
+									color: #fefefe;
+									background-color: #e62117;
+									border-radius: 2px;
+									border: 1px solid #e62117;
+									vertical-align: center;
+									font-size: 11px;
+								}
+							}
+						}
+					}
+					.cmlast{
+						width: 100%;
+						.contentl{
+							width: 95%;
+							display: block;
+							font-size: 10px;
+							color: #999;
+							text-align: center;
+							background: #e9edf0;
+							padding: 5px 0;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 1024px){
+	.ch-container{
+		.total{
+			#content{
+				footer{
+					width: 711px;
+					.foot{
+						width: 100%;
+						padding-right: 0px;
+						padding-left: 15px;
+						.footcontent{
+							width: 100%;
+							.leftfoot{
+								width: 55%;
+								.member{
+									.memberlist{
+										.bmember{
+											.img2{
+												height: 22px;
+											}
+											.img1{
+												height: 23px;
+											}
+										}
+									}
+									.memberlist1{
+										span{
+											font-size: 10px;
+										}
+									}
+								}
+							}
+							.rightfoot{
+								.ckcl{
+									.rightimg{
+										width: 17%;
+										height: 35px;
+									}
+									p{
+										font-size: 12px;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 768px){
+	.ch-container{
+		.total{
+			#content{
+				footer{
+					width: 533px;
+					.footcontent{
+						.rightfoot{
+							padding-right: 0px;
+						}
+						.leftfoot{
+							.member{
+								.memberlist{
+									.bmember{
+										img{
+											width: 100%;
+										}
+										.img1{
+											height: 20px;
+										}
+										.img2{
+											height: 20px;
+										}
+										.img4{
+											width: 50px;
+										}
+									}
+								}
+								.memberlist1{
+									span{
+										font-size: 10px;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 425px){
+	.ch-container{
+		.total{
+			#content{
+				footer{
+					width: 680px;
+				}
+			}
+		}
+	}
+}

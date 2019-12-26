@@ -1,0 +1,242 @@
+@charset "UTF-8";
+.ch-container .total #content .milk {
+  width: 100%;
+}
+.ch-container .total #content .milk .centercontent {
+  width: 94.8%;
+}
+.ch-container .total #content .milk .centercontent .col-lg-12 .hometitle {
+  float: left;
+  margin-top: 3%;
+  padding-left: 1%;
+  border-left: 4px solid #008848;
+  text-transform: uppercase;
+  color: #4a4a4a;
+  font-size: 20px;
+}
+.ch-container .total #content .milk .centercontent .secondpage {
+  display: block;
+  padding-left: 0px;
+  width: 100%;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage {
+  width: 928px;
+  position: relative;
+  margin-left: 15px;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate {
+  display: flex;
+  flex-flow: row wrap;
+  flex: 1 100%;
+  clear: both;
+  background: #ffffff;
+  list-style-type: none;
+  padding-left: 0px;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product {
+  float: left;
+  width: 232px;
+  border: 1px solid #eee;
+  border-left: 0;
+  border-top: 0;
+  margin: 0;
+  position: relative;
+  box-sizing: border-box;
+  padding: 0 0 60px 0;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .combo .number {
+  display: block;
+  padding: 0;
+  text-decoration: none;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .combo .number .boxing {
+  height: 320px;
+  display: block;
+  width: 100%;
+  position: relative;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .combo .number .boxing img {
+  height: 320px;
+  width: 100%;
+  display: block;
+  margin: 0 auto 0;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product a {
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .number1 .boxing {
+  display: block;
+  width: 100%;
+  height: 160px;
+  position: relative;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .number1 .boxing .boxlabel {
+  width: auto;
+  margin: auto;
+  padding: 0 2px;
+  background: rgba(255, 255, 255, 0.6);
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .number1 .boxing .row span {
+  font-size: 12px;
+  font-weight: bold;
+  color: #444;
+  text-overflow: ellipsis;
+  white-space: initial;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .number1 .boxing .row span:first-child {
+  border-bottom: 1px solid #444;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .number1 .boxing .bor {
+  border: 1px solid;
+  border-color: #c7c5c5;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .number1 .boxing img {
+  display: block;
+  width: 140px;
+  height: 140px;
+  margin: 0 auto 0;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .number1 .boxing .sale {
+  position: absolute;
+  z-index: 1;
+  min-height: unset;
+  height: auto;
+  max-width: 80px;
+  top: 0;
+  bottom: unset;
+  right: 0;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .number1 .gift .lazy {
+  vertical-align: top;
+  width: 36px;
+  height: 36px;
+  float: left;
+  display: block;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .number1 .gift span {
+  vertical-align: top;
+  float: left;
+  font-size: 12px;
+  margin-left: 3px;
+  color: #626262;
+  width: calc(100% - 40px);
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .number1 .product-name {
+  line-height: 1.3em;
+  font-size: 13px;
+  color: #333;
+  padding: 10px 10px 0;
+  text-overflow: ellipsis;
+  white-space: initial;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .removepoint span {
+  font-size: 12px;
+  color: #666;
+  margin-bottom: 6px;
+  text-overflow: ellipsis;
+  padding: 10px 10px 0;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .removepoint span:before {
+  content: '•';
+  color: #999;
+  font-size: 12px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 3px;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .price strong {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 13px;
+  color: #b10e0e;
+  font-weight: normal;
+  padding: 0px 10px 0px;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .price label {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 12px;
+  color: #fff;
+  font-weight: 600;
+  background: #de2000;
+  border-radius: 3px;
+  width: 32px;
+  height: 20px;
+  text-align: center;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .price span {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 13px;
+  color: #757575;
+  text-decoration: line-through;
+  font-weight: 300;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .price .unit {
+  display: block;
+  text-decoration: none;
+  font-size: 11px;
+  color: #666;
+  padding: 10px 10px 0;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product .buy {
+  display: block;
+  overflow: hidden;
+  font-size: 13px;
+  color: #008848;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px 0px;
+  position: absolute;
+  left: 20px;
+  right: 20px;
+  bottom: 10px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid #008848;
+  text-decoration: none;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .showmore {
+  display: block;
+  line-height: 30px;
+  color: #0064c2;
+  text-align: center;
+  margin-bottom: 0;
+  position: relative;
+  background: #ffffff;
+}
+.ch-container .total #content .milk .centercontent .secondpage .owl-stage .showmore .moremore {
+  background: none;
+  cursor: pointer;
+  border: none;
+}
+
+@media only screen and (max-width: 1024px) {
+  .ch-container .total #content .milk .centercontent .secondpage .owl-stage {
+    width: 696px;
+  }
+  .ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product {
+    width: 174px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .ch-container .total #content .milk .centercontent .secondpage .owl-stage {
+    width: 100%;
+  }
+  .ch-container .total #content .milk .centercontent .secondpage .owl-stage .cate .product {
+    width: 174px;
+  }
+}
+
+/*# sourceMappingURL=milkstyle.css.map */

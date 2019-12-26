@@ -1,0 +1,173 @@
+.ch-container .total #content .lastpage {
+  width: 100%;
+  margin-top: 2%;
+  padding-left: 0px;
+}
+.ch-container .total #content .lastpage .title {
+  background: #ffffff;
+  width: 95%;
+  margin-left: 0%;
+}
+.ch-container .total #content .lastpage .title .headtitle {
+  display: block;
+  padding: 1% 3%;
+  color: #288ad6;
+  font-weight: 600;
+  font-size: 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.ch-container .total #content .lastpage .last {
+  width: 95%;
+  background: #ffffff;
+  margin-left: 0;
+}
+.ch-container .total #content .lastpage .last .leftcontent {
+  padding-right: 0px;
+  position: relative;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube {
+  width: 100%;
+  padding: 0% 0% 4% 2%;
+  position: relative;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .byt {
+  position: absolute;
+  z-index: 10;
+  top: 33%;
+  left: 41%;
+  width: 17%;
+  filter: grayscale(100%) opacity(63%);
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .byt:hover {
+  filter: grayscale(0%) opacity(100%);
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .lefthead {
+  position: absolute;
+  top: 6%;
+  left: 5%;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .lefthead .bwm {
+  text-decoration: none;
+  color: #333;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .logoyoutube {
+  position: absolute;
+  top: 3%;
+  left: 14%;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .logoyoutube .blg {
+  text-decoration: none;
+  color: #333;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .logoyoutube .blg .lg {
+  width: 45px;
+  height: 40px;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .watch {
+  position: absolute;
+  top: 3%;
+  right: 22%;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .watch .bwatch {
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .watch .bwatch .cwatch i {
+  font-size: 25px;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .watch .bwatch .cwatch span {
+  font-weight: 600;
+  font-size: 12px;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .share {
+  position: absolute;
+  top: 3%;
+  right: 10%;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .share .bshare {
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .share .bshare .cshare i {
+  font-size: 25px;
+}
+.ch-container .total #content .lastpage .last .leftcontent .youtube .share .bshare .cshare span {
+  font-weight: 600;
+  font-size: 12px;
+}
+.ch-container .total #content .lastpage .last .rightcontent .rightlist .listnews {
+  padding: 11px 0px;
+  border-top: 1px solid #f3f3f3;
+}
+.ch-container .total #content .lastpage .last .rightcontent .rightlist .listnews .news {
+  float: left;
+}
+.ch-container .total #content .lastpage .last .rightcontent .rightlist .listnews .news .click img {
+  width: 65px;
+  height: 40px;
+}
+.ch-container .total #content .lastpage .last .rightcontent .rightlist .listnews .titles {
+  margin-left: 22%;
+}
+.ch-container .total #content .lastpage .last .rightcontent .rightlist .morenews .viewother {
+  text-decoration: none;
+  color: #288ad6;
+  font-size: 13px;
+  padding-top: 1%;
+}
+
+@media only screen and (max-width: 1024px) {
+  .ch-container .total #content .lastpage {
+    margin-top: 5%;
+  }
+  .ch-container .total #content .lastpage .title {
+    width: 100%;
+  }
+  .ch-container .total #content .lastpage .title .headtitle {
+    font-size: 15px;
+  }
+  .ch-container .total #content .lastpage .last {
+    width: 100%;
+  }
+  .ch-container .total #content .lastpage .last .leftcontent .youtube .watch {
+    right: 17%;
+  }
+  .ch-container .total #content .lastpage .last .leftcontent .youtube .watch .bwatch .cwatch i {
+    font-size: 20px;
+  }
+  .ch-container .total #content .lastpage .last .leftcontent .youtube .share {
+    right: 5%;
+  }
+  .ch-container .total #content .lastpage .last .leftcontent .youtube .share .bshare .cshare i {
+    font-size: 20px;
+  }
+  .ch-container .total #content .lastpage .last .leftcontent .youtube .iyt {
+    width: 100%;
+    height: 100%;
+  }
+  .ch-container .total #content .lastpage .last .leftcontent .youtube .logoyotube .blg {
+    font-size: 11px;
+  }
+  .ch-container .total #content .lastpage .last .leftcontent .youtube .logoyotube .blg .lg {
+    width: 30px;
+    height: 30px;
+  }
+  .ch-container .total #content .lastpage .last .leftcontent .youtube .lefthead {
+    top: 4%;
+    left: 4%;
+  }
+  .ch-container .total #content .lastpage .last .leftcontent .youtube .lefthead .bwm {
+    font-size: 12px;
+  }
+  .ch-container .total #content .lastpage .last .rightcontent .rightlist .listnews {
+    padding: 4px 0px 2px 0px;
+  }
+  .ch-container .total #content .lastpage .last .rightcontent .rightlist .listnews .titles {
+    margin-left: 30%;
+  }
+}
+
+/*# sourceMappingURL=lastcontent.css.map */

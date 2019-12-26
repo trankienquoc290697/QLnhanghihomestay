@@ -1,0 +1,133 @@
+body{
+	background-color: #e9edf0;
+	.cart-wrap{
+		background-color: #e9edf0;
+		.return{
+			margin-left: 20%;
+			margin-right: 15%;
+			.returnmain{
+				.breturn{
+					text-decoration: none;
+				}
+			}
+		}
+		.totalnopadding{
+			margin-left: 20%;
+			margin-right: 15%;
+			.nopadding{
+				.nomg{
+					margin: 0px;
+					.firstpage{
+						background-color: #ffffff;
+						border-radius: 5px;
+						.rtv{
+							color: #333333;
+							font-weight: bold;
+							padding: 2% 2% 2% 4%;
+							margin: 0%;
+							border-bottom: 1px solid #ddd;
+							i{
+								padding-right: 1%;
+							}
+						}
+						.datetime{
+							margin-top: 1%;
+							.form-show{
+								padding: 15px;
+								.form-group{
+									label{
+										padding-left: 2%;
+										width: 130px;
+										padding-right: 0%;
+									}
+									input{
+										width: 94%;
+										margin-left: 2%;
+										padding: 0% 1%;
+									}
+								}
+							}
+						}
+					}
+					.secondpage{
+						background-color: #ffffff;
+						margin-top: 2%;
+						border-radius: 5px;
+						.form-time{
+							padding: 15px;
+							.form-group{
+								label{
+									padding-left: 2%;
+									width: 130px;
+									padding-right: 0%;
+								}
+								.input-group{
+									width: 96%;
+									display: flex;
+									.input-group-text{
+										border: 1px solid #a9a9a9;
+										padding: .375rem .75rem;
+										border-right: none;
+										background-color: #e9ecef;
+										margin-left: 2%;
+									}
+									.disput{
+										width: 94%;
+										padding: 0% 1%;
+									}
+								}
+							}
+						}
+						.rtv{
+							color: #333333;
+							font-weight: bold;
+							padding: 2% 2% 2% 4%;
+							margin: 0%;
+							border-bottom: 1px solid #ddd;
+							i{
+								padding-right: 1%;
+							}
+						}
+					}
+					.thirdpage{
+						background-color: #ffffff;
+						margin-top: 2%;
+						border-radius: 5px;
+						padding-bottom: 2%;
+						.rtv{
+							color: #333333;
+							font-weight: bold;
+							padding: 2% 2% 2% 4%;
+							margin: 0%;
+							border-bottom: 1px solid #ddd;
+							i{
+								padding-right: 1%;
+							}
+						}
+						.detailtable{
+							width: 95%;
+							margin-left: 3%;
+							margin-top: 2%;
+							border: 1px solid #eee;
+							border-radius: 5px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.contentfoot{
+		margin-left: 25%;
+		margin-right: 21%;
+		.footc{
+			text-align: center;
+			a{
+				color: #999;
+				display: inline-block;
+				font-size: 13px;
+				line-height: 7px;
+				padding: 10px 0;
+			}
+		}
+	}
+}

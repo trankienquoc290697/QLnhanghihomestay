@@ -1,0 +1,91 @@
+.navbar {
+	background-color: #008848;
+}
+
+.navbar .navbar-inner .navbar-brand{
+	padding: 0px 15px;
+	height: 33px;
+}
+
+.navbar .navbar-inner .navbar-brand .hidden-xs{
+	width: 185px;
+	height: 35px;
+
+}
+
+.navbar .navbar-inner{
+	height: 65px;
+	padding: 1% 8% 0% 5%;
+}
+
+.navbar .navbar-inner .top-menu li .pull-left{
+	margin-top: 0px;
+}
+
+.navbar .navbar-inner .top-menu li .pull-left .form-control{
+	padding: 6px 6px 6px 21px;
+	border-radius: 20px;
+}
+
+.navbar .navbar-inner .top-menu li .pull-left input[type="text"]{
+	width: 465px;
+	height: 33px;
+}
+
+.navbar .navbar-inner .top-menu li{
+	position: relative;
+}
+
+.navbar .navbar-inner .top-menu li .pull-left .icon-right{
+	position: absolute;
+	z-index: 555;
+	right: 22px;
+	text-align: center;
+	background: none;
+	border: none;
+	padding-top: 1%;
+}
+
+.navbar .navbar-inner .top-menu li .pull-left .icon-right .fa-search{
+	width: 18px;
+	height: 18px;
+	color: #dfdfdf;
+	font-size: 20px;
+}
+
+.navbar .navbar-inner .btn-group{
+	margin: 0px 5px 0px 10px;
+	text-align: center;
+}
+
+.navbar .navbar-inner .btn-group .btn{
+	background: none;
+	border: none;
+	color: #ffffff;
+
+}
+
+.navbar .navbar-inner .btn-group .btn:hover{
+	color: #eeff6b;
+}
+
+.navbar .navbar-inner .pull-right-1{
+	float: right;
+	background: rgba(19,18,24,.16);
+}
+
+.ch-container{
+	padding: 0px;
+}
+
+.ch-container .row{
+	margin-right: 0px;
+}
+
+.ch-container .row .col-sm-2{
+	padding-right: 0px;
+}
+
+.ch-container .row #content{
+	padding-left: 0px;
+}

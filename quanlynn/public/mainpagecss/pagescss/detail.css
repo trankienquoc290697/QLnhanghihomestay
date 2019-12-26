@@ -1,0 +1,519 @@
+.ch-container .total #content {
+  padding-left: 0px;
+}
+.ch-container .total #content .bread {
+  display: flex;
+  padding: 10px 10px;
+  width: 93%;
+  background: #ffffff;
+}
+.ch-container .total #content .productview {
+  margin-left: 0px;
+  width: 93%;
+  background: #ffffff;
+  padding-bottom: 3%;
+}
+.ch-container .total #content .productview .leftslide .slider-nav-thumbnails .slick-list .slick-track {
+  transform: translate3d(0px, 0px, 0px) !important;
+}
+.ch-container .total #content .productview .leftslide .slider-nav-thumbnails .slick-list .slick-track .slick-slide {
+  width: 70px !important;
+  margin-right: 13px;
+  margin-top: 10px;
+}
+.ch-container .total #content .productview .rightslide .titleslide .titles {
+  margin: 0;
+  font-size: 22px;
+  line-height: 1.3em;
+  color: #4a4a4a;
+  margin-bottom: 10px;
+  display: block;
+}
+.ch-container .total #content .productview .rightslide .loveproduct {
+  margin-bottom: 30px;
+}
+.ch-container .total #content .productview .rightslide .loveproduct .lovewish {
+  float: right;
+  text-decoration: none;
+  margin-bottom: 15px;
+  color: #999;
+  cursor: pointer;
+  font-size: 14px;
+}
+.ch-container .total #content .productview .rightslide .loveproduct .lovewish .fa-heart {
+  color: #f38989;
+}
+.ch-container .total #content .productview .rightslide .boxbanner .item img {
+  width: 100%;
+}
+.ch-container .total #content .productview .rightslide .rating {
+  width: 100%;
+  display: inline-block;
+}
+.ch-container .total #content .productview .rightslide .rating .boxprice {
+  display: inline-block;
+  margin-bottom: 15px;
+}
+.ch-container .total #content .productview .rightslide .rating .boxprice strong {
+  display: inline-block;
+  font-size: 24px;
+  color: #c10017;
+  vertical-align: middle;
+}
+.ch-container .total #content .productview .rightslide .rating .star {
+  display: inline-block;
+  margin-bottom: 10px;
+  float: right;
+  text-align: right;
+}
+.ch-container .total #content .productview .rightslide .rating .star .liststar {
+  display: inline-block;
+  vertical-align: middle;
+}
+.ch-container .total #content .productview .rightslide .rating .star .liststar .far {
+  color: #d9d9d9;
+}
+.ch-container .total #content .productview .rightslide .rating .star .liststar .fas {
+  color: #fccb01;
+}
+.ch-container .total #content .productview .rightslide .rating .star .ratingname {
+  float: right;
+  display: inline-block;
+  text-decoration: none;
+  font-size: 12px;
+  color: #288ad8;
+  padding: 3px 0 0 5px;
+}
+.ch-container .total #content .productview .rightslide .buypr {
+  padding-top: 2%;
+}
+.ch-container .total #content .productview .rightslide .buypr .buythis {
+  display: block;
+  overflow: hidden;
+  background: #008848;
+  font-size: 18px;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 16px 0;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  width: 100%;
+  text-decoration: none;
+}
+.ch-container .total #content .productview .rightslide .if-tc {
+  padding: 10px 0;
+}
+.ch-container .total #content .productview .rightslide .if-tc .tc {
+  margin-bottom: 10px;
+}
+.ch-container .total #content .productview .rightslide .shipping {
+  display: block;
+  padding: 10px;
+  background: #f6f8fa;
+}
+.ch-container .total #content .productview .rightslide .shipping .location {
+  font-size: 12px;
+  color: #c5c6c6;
+  line-height: 30px;
+}
+.ch-container .total #content .productview .rightslide .shipping .location span {
+  margin-left: 5px;
+  font-size: 14px;
+  vertical-align: middle;
+  display: inline-block;
+}
+.ch-container .total #content .productview .rightslide .shipping .location .fa-map-marker-alt {
+  width: 13px;
+  height: 16px;
+  color: #c5c6c6;
+}
+.ch-container .total #content .productview .rightslide .shipping .location .fa-shipping-fast {
+  width: 15px;
+  height: 11px;
+  color: #c5c6c6;
+}
+.ch-container .total #content .infoproduct {
+  margin-left: 0px;
+  margin-top: 1%;
+  width: 93%;
+  background: #ffffff;
+}
+.ch-container .total #content .infoproduct .leftinfo {
+  padding-left: 0px;
+}
+.ch-container .total #content .infoproduct .leftinfo .titleinfo {
+  padding-left: 15px;
+}
+.ch-container .total #content .infoproduct .leftinfo .titleinfo .nameinfo {
+  margin: 0px;
+  display: block;
+  padding: 15px 0px;
+  color: #4a4a4a;
+  font-weight: bold;
+  font-size: 20px;
+}
+.ch-container .total #content .infoproduct .leftinfo .titleinfo .nameinfo:before {
+  position: relative;
+  content: '';
+  height: 25px;
+  width: 3px;
+  background-color: #008848;
+  top: 5px;
+  display: inline-block;
+  margin-right: 10px;
+}
+.ch-container .total #content .infoproduct .leftinfo .contentinfo {
+  padding-left: 15px;
+}
+.ch-container .total #content .infoproduct .leftinfo .contentinfo .ratingpr {
+  width: 100%;
+  height: 210px;
+  margin-bottom: 10px;
+}
+.ch-container .total #content .infoproduct .leftinfo .contentinfo .usesthis .titleuses {
+  font-size: 22px;
+  text-align: left;
+  font-weight: normal;
+  margin: 0 auto .7em;
+  line-height: 1.4em;
+}
+.ch-container .total #content .infoproduct .leftinfo .contentinfo .usesthis .listuses {
+  list-style-type: none;
+  padding: 0px;
+}
+.ch-container .total #content .infoproduct .leftinfo .contentinfo .usesthis .listuses .cuses {
+  line-height: 2.5;
+  margin-bottom: 10px;
+}
+.ch-container .total #content .infoproduct .leftinfo .contentinfo .usesthis .listuses .cuses .element {
+  width: 100%;
+  height: 336px;
+  margin: 10px auto;
+}
+.ch-container .total #content .infoproduct .leftinfo .contentinfo .usesthis .listuses .cuses .element1 {
+  width: 100%;
+  height: 277px;
+  margin: 10px auto;
+}
+.ch-container .total #content .infoproduct .leftinfo .contentinfo .protectpr .titleprotect {
+  font-size: 22px;
+  text-align: left;
+  font-weight: normal;
+  margin: 0 auto .7em;
+  line-height: 1.4em;
+}
+.ch-container .total #content .infoproduct .leftinfo .contentinfo .protectpr .listprotect {
+  list-style-type: none;
+  padding: 0px;
+}
+.ch-container .total #content .infoproduct .leftinfo .contentinfo .protectpr .listprotect .cpro {
+  line-height: 2.5;
+  margin-bottom: 10px;
+}
+.ch-container .total #content .infoproduct .leftinfo .voteproduct {
+  border-top: 3px solid #e9edf0;
+  border-bottom: 3px solid #e9edf0;
+  padding: 10px 10px 10px 15px;
+}
+.ch-container .total #content .infoproduct .leftinfo .voteproduct .main .messageConfirm {
+  float: left;
+  margin-right: 5px;
+  margin-top: 2px;
+}
+.ch-container .total #content .infoproduct .leftinfo .voteproduct .main .iconproduct {
+  display: flex;
+  margin-left: 5px;
+}
+.ch-container .total #content .infoproduct .leftinfo .voteproduct .main .iconproduct .bl-vote {
+  border: 1px solid #e9edf0;
+  border-radius: 4px;
+  width: 130px;
+  margin-right: 6px;
+  line-height: 1px;
+  font-size: 13px;
+  display: inline;
+  white-space: nowrap;
+  text-align: center;
+  text-decoration: none;
+  padding: 5px;
+}
+.ch-container .total #content .infoproduct .leftinfo .voteproduct .main .iconproduct .bl-vote .fa-grin-hearts {
+  color: #ffd247;
+  background-color: red;
+  border-radius: 100%;
+}
+.ch-container .total #content .infoproduct .leftinfo .voteproduct .main .iconproduct .bl-vote .fa-angry {
+  color: #f3626c;
+  background-color: black;
+  border-radius: 100%;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .title {
+  width: 100%;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .title .titlebox {
+  padding: 15px 0 10px 15px;
+  font-size: 20px;
+  line-height: 1.3;
+  font-weight: bold;
+  margin: 0px;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox {
+  border: 1px solid #e6e6e6;
+  border-radius: 5px;
+  padding: 10px 0;
+  display: flex;
+  margin-left: 15px;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .lrb {
+  width: 18%;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .lrb .orange {
+  color: #8c8c8c;
+  text-align: center;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .lrb .orange > div {
+  margin: 5px 0px;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .lrb .orange > div p {
+  font-size: 22px;
+  display: inline-block;
+  font-weight: normal;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .lrb .orange > div i {
+  width: 100%;
+  height: 70px;
+  font-size: 70px;
+  color: #fac917;
+  vertical-align: text-bottom;
+  display: inline-block;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .rrb {
+  width: 50%;
+  border-right: 1px solid #eee;
+  border-left: 1px solid #eee;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .rrb .totalrating {
+  width: 100%;
+  vertical-align: middle;
+  display: inline-block;
+  list-style-type: none;
+  padding-left: 0px;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .rrb .totalrating li {
+  display: block;
+  overflow: hidden;
+  font-size: 13px;
+  padding: 5px 5px;
+  text-align: left;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .rrb .totalrating li .ratingbar {
+  width: 60%;
+  background-color: #e9e9e9;
+  height: 5px;
+  display: inline-block;
+  margin: 0 5px;
+  border-radius: 5px;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .rrb .totalrating li .ratingbar .ratingbar-in {
+  background-color: #fbcb16;
+  background-image: linear-gradient(90deg, #fbcb16 0%, #fbcb16 97%);
+  height: 5px;
+  border-radius: 5px;
+  max-width: 100%;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .rrb .totalrating li label {
+  font-size: 11px;
+  line-height: 14px;
+  color: #888;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .stars {
+  width: 34%;
+  vertical-align: middle;
+  display: inline-block;
+  padding-top: 10%;
+  position: relative;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .stars .sendrating {
+  display: block;
+  text-align: center;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .stars .sendrating .send {
+  color: #008848;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .stars .review-rating {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 77%;
+  left: 12%;
+  position: absolute;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .stars .review-rating > input {
+  display: none;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .stars .review-rating > label:before {
+  content: "\f005";
+  font-family: "Font Awesome 5 Free";
+  margin: 2px;
+  font-size: 20px;
+  display: inline-block;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .stars .review-rating > label {
+  color: #d9d9d9;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .stars .review-rating > input:checked ~ label {
+  color: #ffca08;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comment-rating .boxrating .ratingbox .stars .review-rating > input:hover ~ label {
+  color: #ffca08;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list {
+  padding: 0 0 0 15px;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list .topcmt {
+  padding: 10px 0px;
+  height: 40px;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list .topcmt .cmtitle {
+  float: left;
+  padding: 0;
+  margin: 0;
+  font-size: 15px;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list .topcmt .cmtitle .regulation {
+  font-size: 12px;
+  color: #41a7e0;
+  margin-left: 15px;
+  position: relative;
+  text-decoration: none;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list .topcmt .cmtitle .regulation:before {
+  content: '.';
+  position: absolute;
+  top: -12px;
+  left: -10px;
+  font-size: 23px;
+  font-weight: bold;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list .topcmt .s-comment {
+  float: right;
+  padding: 0px;
+  display: block;
+  line-height: 1.4;
+  position: relative;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list .topcmt .s-comment .wcmt {
+  color: #666;
+  text-decoration: none;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list .topcmt .s-comment .wcmt i {
+  color: #c5c5c5;
+  height: 18px;
+  width: 18px;
+  font-size: 18px;
+  vertical-align: bottom;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list #frmAddcomment {
+  padding: 8px 0px 9px 0px;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list #frmAddcomment .form-group {
+  position: absolute;
+  bottom: 0;
+  right: 23px;
+  display: flex;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list #frmAddcomment .form-group .fileb {
+  position: relative;
+  vertical-align: middle;
+  color: #888;
+  font-size: 14px;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list #frmAddcomment .form-group .fileb i {
+  width: 27px;
+  height: 22px;
+  font-size: 20px;
+  text-align: center;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list #frmAddcomment .form-group .fileb span {
+  vertical-align: top;
+}
+.ch-container .total #content .infoproduct .leftinfo .commentproduct .comemt-list #frmAddcomment .form-group .fileb .form-control-file {
+  position: absolute;
+  font-size: 20px;
+  width: 120px;
+  z-index: 0;
+  opacity: 0;
+  top: 0;
+}
+.ch-container .total #content .infoproduct .rightinfo .groupcate {
+  margin-bottom: 6%;
+}
+.ch-container .total #content .infoproduct .rightinfo .groupcate .namegroup {
+  display: block;
+  padding: 25px 10px 15px 10px;
+}
+.ch-container .total #content .infoproduct .rightinfo .groupcate .namegroup .titlegr {
+  font-size: 14px;
+  font-weight: 600;
+}
+.ch-container .total #content .infoproduct .rightinfo .groupcate .listgroup {
+  display: flex;
+  padding-top: 2%;
+}
+.ch-container .total #content .infoproduct .rightinfo .groupcate .listgroup .category {
+  width: 70px;
+}
+.ch-container .total #content .infoproduct .rightinfo .groupcate .listgroup .category .name {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ch-container .total #content .infoproduct .rightinfo .groupcate .listgroup .category .name .may {
+  width: 45px;
+  height: 45px;
+}
+.ch-container .total #content .infoproduct .rightinfo .groupcate .listgroup .category .name .nameicon {
+  width: 80px;
+  text-align: center;
+  font-size: 12px;
+}
+.ch-container .total #content .infoproduct .rightinfo .homenews .bartitle {
+  height: 47px;
+}
+.ch-container .total #content .infoproduct .rightinfo .homenews .bartitle .hometitle {
+  float: left;
+  text-transform: uppercase;
+  font-weight: 600;
+  line-height: 1.3em;
+  padding: 15px 10px 10px;
+  color: #4a4a4a;
+  font-size: 14px;
+  margin: 0px;
+}
+.ch-container .total #content .infoproduct .rightinfo .homenews .bartitle .viewother {
+  text-align: center;
+  float: right;
+  margin-right: 10px;
+  padding-top: 15px;
+  text-decoration: none;
+  font-size: 13px;
+}
+.ch-container .total #content .infoproduct .rightinfo .homenews .listnews .bnews {
+  display: block;
+  font-size: 13px;
+  border-top: 1px solid #f3f3f3;
+  padding: 12px 0px;
+  margin: 0px 10px;
+}
+.ch-container .total #content .infoproduct .rightinfo .homenews .listnews .bnews .lz {
+  float: left;
+  width: 65px;
+  height: 40px;
+  margin-right: 10px;
+}
+.ch-container .total #content .infoproduct .rightinfo .homenews .listnews .bnews .nnews {
+  font-size: 13px;
+  margin: 6px;
+}
+
+/*# sourceMappingURL=detail.css.map */

@@ -1,0 +1,131 @@
+.ch-container .total #content .smalljuice {
+  width: 100%;
+  padding-left: 0px;
+  margin-top: 2%;
+}
+.ch-container .total #content .smalljuice .centercontent {
+  width: 94.8%;
+}
+.ch-container .total #content .smalljuice .centercontent .col-lg-12 {
+  display: block;
+  position: relative;
+}
+.ch-container .total #content .smalljuice .centercontent .col-lg-12 .juiceviewmore {
+  float: right;
+  text-decoration: none;
+  position: absolute;
+  right: -15px;
+}
+.ch-container .total #content .smalljuice .centercontent .col-lg-12 .hometitle {
+  float: left;
+  margin-top: 0px;
+  padding-left: 1%;
+  border-left: 4px solid #008848;
+  text-transform: uppercase;
+  color: #4a4a4a;
+  font-size: 20px;
+}
+.ch-container .total #content .smalljuice .centercontent .secondpage {
+  display: block;
+  background: #ffffff;
+  padding-left: 0px;
+  margin-left: 15px;
+  width: 100%;
+}
+.ch-container .total #content .smalljuice .centercontent .secondpage .owl-stage {
+  display: flex;
+  width: 980px;
+  position: relative;
+}
+.ch-container .total #content .smalljuice .centercontent .secondpage .owl-stage .active {
+  width: 245px;
+  border-left: 1px solid #eee;
+  box-sizing: border-box;
+  position: relative;
+  min-height: 1px;
+  float: left;
+}
+.ch-container .total #content .smalljuice .centercontent .secondpage .owl-stage .active .fruit {
+  position: relative;
+  padding-bottom: 60px;
+}
+.ch-container .total #content .smalljuice .centercontent .secondpage .owl-stage .active .fruit .number1 {
+  text-decoration: none;
+  padding: 8px;
+  display: block;
+}
+.ch-container .total #content .smalljuice .centercontent .secondpage .owl-stage .active .fruit .number1 .boxing {
+  display: block;
+  width: 100%;
+  height: 160px;
+  position: relative;
+  overflow: hidden;
+}
+.ch-container .total #content .smalljuice .centercontent .secondpage .owl-stage .active .fruit .number1 .boxing img {
+  display: block;
+  width: 160px;
+  height: 160px;
+  margin: 0 auto 0;
+}
+.ch-container .total #content .smalljuice .centercontent .secondpage .owl-stage .active .fruit .number1 .product-name {
+  line-height: 1.3em;
+  font-size: 13px;
+  color: #333;
+  padding: 10px 10px 0;
+  text-overflow: ellipsis;
+  white-space: initial;
+}
+.ch-container .total #content .smalljuice .centercontent .secondpage .owl-stage .active .fruit .number1 .price {
+  display: block;
+  overflow: hidden;
+}
+.ch-container .total #content .smalljuice .centercontent .secondpage .owl-stage .active .fruit .number1 .price strong {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 13px;
+  color: #b10e0e;
+  font-weight: normal;
+  padding: 0px 10px 0px;
+}
+.ch-container .total #content .smalljuice .centercontent .secondpage .owl-stage .active .fruit .number1 .boxlabel {
+  position: relative;
+  text-align: left;
+  padding: 0px;
+  height: auto;
+  padding: 0px 10px 0px;
+}
+.ch-container .total #content .smalljuice .centercontent .secondpage .owl-stage .active .fruit .number1 .boxlabel p {
+  font-size: 12px;
+  color: #444;
+  text-overflow: ellipsis;
+  white-space: initial;
+  overflow: hidden;
+}
+.ch-container .total #content .smalljuice .centercontent .secondpage .owl-stage .active .fruit .buy {
+  display: block;
+  overflow: hidden;
+  font-size: 13px;
+  color: #008848;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px 0px;
+  position: absolute;
+  left: 20px;
+  right: 20px;
+  bottom: 10px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid #008848;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 1024px) {
+  .ch-container .total #content .smalljuice .centercontent {
+    width: 100%;
+  }
+  .ch-container .total #content .smalljuice .centercontent .secondpage .owl-stage {
+    width: 713px;
+  }
+}
+
+/*# sourceMappingURL=juicepage.css.map */

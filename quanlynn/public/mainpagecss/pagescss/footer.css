@@ -1,0 +1,179 @@
+@charset "UTF-8";
+.ch-container .total #content footer .foot {
+  width: 100%;
+  padding-left: 0px;
+  padding-top: 3%;
+}
+.ch-container .total #content footer .foot .footcontent {
+  margin-left: 0px;
+  width: 928px;
+  background: #ffffff;
+}
+.ch-container .total #content footer .foot .footcontent .leftfoot {
+  padding: 15px 0 0 15px;
+  height: 100%;
+  float: left;
+  width: 60%;
+}
+.ch-container .total #content footer .foot .footcontent .leftfoot .tongdai {
+  color: #008848;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 10px 10px;
+}
+.ch-container .total #content footer .foot .footcontent .leftfoot .linkstatic {
+  width: 100%;
+  padding: 3px 10px 5px;
+}
+.ch-container .total #content footer .foot .footcontent .leftfoot .linkstatic .static {
+  font-size: 12px;
+}
+.ch-container .total #content footer .foot .footcontent .leftfoot .linkstatic .static:before {
+  content: '•';
+  display: inline-block;
+  font-size: 8px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.ch-container .total #content footer .foot .footcontent .leftfoot .member {
+  position: relative;
+  padding: 0px 10px;
+}
+.ch-container .total #content footer .foot .footcontent .leftfoot .member .mem {
+  display: flex;
+}
+.ch-container .total #content footer .foot .footcontent .leftfoot .member .mem .memberlist {
+  align-items: center;
+  display: inherit;
+}
+.ch-container .total #content footer .foot .footcontent .leftfoot .member .mem .memberlist .bmember .img1 {
+  height: 27px;
+  width: 94%;
+}
+.ch-container .total #content footer .foot .footcontent .leftfoot .member .mem .memberlist .bmember .img2 {
+  height: 28px;
+  width: 95%;
+}
+.ch-container .total #content footer .foot .footcontent .leftfoot .member .mem .memberlist .bmember .img3 {
+  height: 36px;
+  width: 97%;
+}
+.ch-container .total #content footer .foot .footcontent .leftfoot .member .memberlist1 {
+  width: 63%;
+  align-items: center;
+  display: inherit;
+}
+.ch-container .total #content footer .foot .footcontent .rightfoot {
+  padding-top: 18px;
+  padding-right: 50px;
+}
+.ch-container .total #content footer .foot .footcontent .rightfoot .ckcl {
+  display: flex;
+  position: relative;
+}
+.ch-container .total #content footer .foot .footcontent .rightfoot .ckcl .rightimg {
+  width: 12%;
+  height: 40px;
+}
+.ch-container .total #content footer .foot .footcontent .rightfoot .ckcl p {
+  display: inherit;
+  align-items: center;
+  margin-bottom: 0px;
+}
+.ch-container .total #content footer .foot .footcontent .rightfoot .nutb {
+  float: right;
+}
+.ch-container .total #content footer .foot .footcontent .rightfoot .nutb .fb {
+  border: 1px solid #4267b2;
+  border-radius: 5px;
+  height: 20px;
+  font-size: 11px;
+  background: #4267b2;
+  color: white;
+  display: inline-block;
+  vertical-align: bottom;
+}
+.ch-container .total #content footer .foot .footcontent .rightfoot .nutb .yt {
+  height: 24px;
+  color: #fefefe;
+  background-color: #e62117;
+  border-radius: 2px;
+  border: 1px solid #e62117;
+  vertical-align: center;
+  font-size: 11px;
+}
+.ch-container .total #content footer .foot .cmlast {
+  width: 100%;
+}
+.ch-container .total #content footer .foot .cmlast .contentl {
+  width: 95%;
+  display: block;
+  font-size: 10px;
+  color: #999;
+  text-align: center;
+  background: #e9edf0;
+  padding: 5px 0;
+}
+
+@media only screen and (max-width: 1024px) {
+  .ch-container .total #content footer {
+    width: 711px;
+  }
+  .ch-container .total #content footer .foot {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 15px;
+  }
+  .ch-container .total #content footer .foot .footcontent {
+    width: 100%;
+  }
+  .ch-container .total #content footer .foot .footcontent .leftfoot {
+    width: 55%;
+  }
+  .ch-container .total #content footer .foot .footcontent .leftfoot .member .memberlist .bmember .img2 {
+    height: 22px;
+  }
+  .ch-container .total #content footer .foot .footcontent .leftfoot .member .memberlist .bmember .img1 {
+    height: 23px;
+  }
+  .ch-container .total #content footer .foot .footcontent .leftfoot .member .memberlist1 span {
+    font-size: 10px;
+  }
+  .ch-container .total #content footer .foot .footcontent .rightfoot .ckcl .rightimg {
+    width: 17%;
+    height: 35px;
+  }
+  .ch-container .total #content footer .foot .footcontent .rightfoot .ckcl p {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .ch-container .total #content footer {
+    width: 533px;
+  }
+  .ch-container .total #content footer .footcontent .rightfoot {
+    padding-right: 0px;
+  }
+  .ch-container .total #content footer .footcontent .leftfoot .member .memberlist .bmember img {
+    width: 100%;
+  }
+  .ch-container .total #content footer .footcontent .leftfoot .member .memberlist .bmember .img1 {
+    height: 20px;
+  }
+  .ch-container .total #content footer .footcontent .leftfoot .member .memberlist .bmember .img2 {
+    height: 20px;
+  }
+  .ch-container .total #content footer .footcontent .leftfoot .member .memberlist .bmember .img4 {
+    width: 50px;
+  }
+  .ch-container .total #content footer .footcontent .leftfoot .member .memberlist1 span {
+    font-size: 10px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .ch-container .total #content footer {
+    width: 680px;
+  }
+}
+
+/*# sourceMappingURL=footer.css.map */

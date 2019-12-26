@@ -1,0 +1,175 @@
+.ch-container .row #content .header {
+  width: 100%;
+  padding-top: 1%;
+}
+.ch-container .row #content .header .listvertical {
+  width: 96.3%;
+  border: 1px solid #ffffff;
+  background: #ffffff;
+  border-radius: 20px;
+}
+.ch-container .row #content .header .listvertical .title {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 0px 16px;
+}
+.ch-container .row #content .header .listvertical .listbuy {
+  display: flex;
+}
+.ch-container .row #content .header .listvertical .listbuy .buypr {
+  width: 120px;
+}
+.ch-container .row #content .header .listvertical .listbuy .buypr .name {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ch-container .row #content .header .listvertical .listbuy .buypr .name .may img {
+  height: 45px;
+  width: 45px;
+}
+.ch-container .row #content .header .listvertical .listbuy .buypr .name .naem {
+  width: 85px;
+  text-align: center;
+}
+.ch-container .row #content .advert {
+  width: 100%;
+}
+.ch-container .row #content .advert .row {
+  width: 96.3%;
+  padding-top: 1%;
+  position: relative;
+}
+.ch-container .row #content .advert .row .myadvert .content {
+  width: 927px;
+}
+.ch-container .row #content .advert .row .myadvert .content img {
+  width: 100%;
+}
+.ch-container .row #content .advert .row .owl-next {
+  position: absolute;
+  top: 39%;
+  right: 3%;
+}
+.ch-container .row #content .advert .row .owl-next .bnext {
+  background: #028848;
+  border-radius: 100%;
+}
+.ch-container .row #content .advert .row .owl-next .bnext .fa-chevron-right {
+  color: #ffffff;
+}
+.ch-container .row #content .advert .row .owl-prev {
+  position: absolute;
+  left: 3%;
+  top: 39%;
+}
+.ch-container .row #content .advert .row .owl-prev .bprev {
+  background: #028848;
+  border-radius: 100%;
+}
+.ch-container .row #content .advert .row .owl-prev .bprev .fa-chevron-left {
+  color: #ffffff;
+}
+.ch-container .row #content .advert .row .slick-dotted {
+  position: relative;
+}
+.ch-container .row #content .advert .row .slick-dotted .slick-dots {
+  position: absolute;
+  bottom: 0%;
+}
+.ch-container .row #content .advert .row .slick-dotted .slick-dots li .slick-ative button:hover {
+  color: #018000;
+  opacity: 1;
+}
+
+@media only screen and (max-width: 1024px) {
+  .ch-container .total #content .header .listvertical {
+    margin-left: 0px;
+    width: 100%;
+  }
+  .ch-container .total #content .header .listvertical .listbuy .buypr {
+    width: 69px;
+  }
+  .ch-container .total #content .header .listvertical .listbuy .buypr .name .naem {
+    width: 75px;
+  }
+  .ch-container .total #content .header .listvertical .listbuy .buypr .name .naem p {
+    font-size: 11px;
+  }
+  .ch-container .total #content .advert .row {
+    margin-left: 0px;
+    width: 100%;
+    padding-top: 2%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .ch-container .total #content {
+    padding-top: 3%;
+  }
+  .ch-container .total #content .header {
+    width: 100%;
+  }
+  .ch-container .total #content .header .listvertical {
+    margin-left: 0px;
+    width: 100%;
+  }
+  .ch-container .total #content .header .listvertical .listbuy .buypr {
+    width: 52px;
+  }
+  .ch-container .total #content .header .listvertical .listbuy .buypr .name .naem {
+    width: 66px;
+  }
+  .ch-container .total #content .header .listvertical .listbuy .buypr .name .naem p {
+    font-size: 11px;
+  }
+  .ch-container .total #content .advert .row {
+    margin-left: 0px;
+    width: 100%;
+    padding-top: 2%;
+  }
+  .ch-container .total #content .advert .row .myadvert .content img {
+    width: auto;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .ch-container .total #content {
+    padding-top: 9%;
+  }
+  .ch-container .total #content .header {
+    width: 680px;
+    padding-right: 0px;
+  }
+  .ch-container .total #content .header .listvertical {
+    margin-left: 0px;
+    width: 100%;
+  }
+  .ch-container .total #content .header .listvertical .listbuy .buypr {
+    width: 79px;
+  }
+  .ch-container .total #content .header .listvertical .listbuy .buypr .name .naem {
+    width: 62px;
+  }
+  .ch-container .total #content .header .listvertical .listbuy .buypr .name .naem p {
+    font-size: 10px;
+  }
+  .ch-container .total #content .advert {
+    width: 680px;
+    padding-right: 0px;
+  }
+  .ch-container .total #content .advert .row {
+    margin-left: 0px;
+    width: 100%;
+    padding-top: 2%;
+  }
+  .ch-container .total #content .advert .row .myadvert .content img {
+    width: auto;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .ch-container .total #content {
+    padding-top: 17%;
+  }
+}
+
+/*# sourceMappingURL=pagefirst.css.map */
